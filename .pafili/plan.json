@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "at": 1793042918315,
+  "at": 1793043115268,
   "sni": "pafili-node-900d08.pafili-0e2f01.workers.dev",
   "ports": [
     443,
@@ -17,7 +17,15 @@
       "format": "lines",
       "max": 20,
       "regions": [
-        "RU"
+        "US",
+        "JP",
+        "SG",
+        "KR",
+        "DE",
+        "GB",
+        "NL",
+        "RU",
+        "AL"
       ],
       "urlTemplate": "https://bestcf.pages.dev/random-region/{region}/100.txt"
     },
@@ -27,6 +35,24 @@
       "format": "markdown",
       "max": 20,
       "regions": [
+        "AL",
+        "AM",
+        "AZ",
+        "BE",
+        "BG",
+        "CN",
+        "CZ",
+        "FR",
+        "DE",
+        "JP",
+        "NL",
+        "PK",
+        "SA",
+        "TJ",
+        "TR",
+        "AE",
+        "GB",
+        "US",
         "UZ"
       ],
       "url": "https://raw.githubusercontent.com/NiREvil/vless/main/sub/ProxyIP-Daily.md",
